@@ -1,1 +1,2 @@
 A file about Oban
+Adding a line about Stirling in Oban file as part of new feature Stirling
